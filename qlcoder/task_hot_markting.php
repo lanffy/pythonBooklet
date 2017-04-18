@@ -1,15 +1,4 @@
 <?php
-/**
- * <pre>
- * Created by PhpStorm.
- * User: rlanffy
- * Date: 16/4/23
- * Time: 上午11:56
- * Email: liangrao@anjuke.com
- * Desc:
- * </pre>
- */
-
 $friend_relationship_file = file('friend_relation.txt');
 
 $source = [];
